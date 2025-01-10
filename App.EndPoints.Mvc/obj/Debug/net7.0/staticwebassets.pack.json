@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\App.EndPoints.Mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\App.EndPoints.Mvc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\css\\rtl.css",
+      "PackagePath": "staticwebassets\\css\\rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\fonts\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\LICENSE",
+      "PackagePath": "staticwebassets\\fonts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\README.md",
+      "PackagePath": "staticwebassets\\fonts\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Thin.eot",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Thin.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Thin.woff",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Thin.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Vazir-Thin.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir.eot",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir.woff",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\fonts\\Vazir.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\BackEnd Development\\ASP.NET\\CW19\\App.EndPoints.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.App.EndPoints.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.App.EndPoints.Mvc.props",
+      "PackagePath": "build\\App.EndPoints.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.App.EndPoints.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\App.EndPoints.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.App.EndPoints.Mvc.props",
+      "PackagePath": "buildTransitive\\App.EndPoints.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

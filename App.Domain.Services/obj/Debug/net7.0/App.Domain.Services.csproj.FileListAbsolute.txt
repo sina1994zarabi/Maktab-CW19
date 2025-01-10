@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\bin\Debug\net7.0\App.Domain.Services.deps.json
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\bin\Debug\net7.0\App.Domain.Services.dll
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\bin\Debug\net7.0\App.Domain.Services.pdb
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\bin\Debug\net7.0\App.Domain.Core.dll
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\bin\Debug\net7.0\App.Domain.Core.pdb
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\App.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\App.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\App.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\App.Domain.Services.AssemblyInfo.cs
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\App.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\App.Domain.Services.csproj.CopyComplete
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\App.Domain.Services.dll
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\refint\App.Domain.Services.dll
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\App.Domain.Services.pdb
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Domain.Services\obj\Debug\net7.0\ref\App.Domain.Services.dll

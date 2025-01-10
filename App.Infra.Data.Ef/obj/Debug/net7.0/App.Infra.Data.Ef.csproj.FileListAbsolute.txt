@@ -1,0 +1,17 @@
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\bin\Debug\net7.0\App.Infra.Data.Ef.deps.json
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\bin\Debug\net7.0\App.Infra.Data.Ef.runtimeconfig.json
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\bin\Debug\net7.0\App.Infra.Data.Ef.dll
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\bin\Debug\net7.0\App.Infra.Data.Ef.pdb
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\bin\Debug\net7.0\App.Domain.Core.dll
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\bin\Debug\net7.0\App.Domain.Core.pdb
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.AssemblyInfo.cs
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.csproj.CopyComplete
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.dll
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\refint\App.Infra.Data.Ef.dll
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.pdb
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\App.Infra.Data.Ef.genruntimeconfig.cache
+C:\Users\dell\Desktop\BackEnd Development\ASP.NET\CW19\App.Infra.Data.Ef\obj\Debug\net7.0\ref\App.Infra.Data.Ef.dll
